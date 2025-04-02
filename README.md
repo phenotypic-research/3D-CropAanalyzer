@@ -5,7 +5,7 @@
 以下指南基于 Windows 可执行文件详细说明操作步骤。
 
 1.1 软件访问
-软件运行于 Windows 10 系统。用户需从 GitHub 仓库（https://github.com/HGF11/3D-CropAnalyzer 下载文件，双击 .exe 可执行文件即可启动程序。
+软件运行于 Windows 10 系统。用户需从 GitHub 仓库(https://github.com/phenotypic-research/3D-CropAanalyzer/tree/master) 下载文件，双击 .exe 可执行文件即可启动程序。
 
 1.2 预处理无人机-LiDAR 系统生成的点云
 1.2.1 去噪
